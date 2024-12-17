@@ -21,7 +21,8 @@ h1 {
     font-size: 3rem; 
     color: rgb(255, 255, 255);
     text-align: center;
-    padding: 30px;
+    padding: 10px;
+    margin: 10px;
     text-decoration: double;
 }
 nav {
